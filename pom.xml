@@ -22,7 +22,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
         <docker.skip.build>false</docker.skip.build>
-        <mybatis.spring.version>1.2.1</mybatis.spring.version>
+        <mybatis.spring.version>2.1.4</mybatis.spring.version>
         <dbunit.version>2.5.3</dbunit.version>
         <jwt.version>2.2.0</jwt.version>
         <oval.version>1.85</oval.version>
